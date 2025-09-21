@@ -1,8 +1,6 @@
 **Owler Full-Stack Application**
 *Integrated Frontend (Android) & Backend (Flask) Calendar/Task Management*
 
-This document explains how to clone, configure, and run both the Android frontend and Python/Flask backend as a complete, end-to-end application. It assumes you have two separate GitHub repositories:
-
 * **OwlerBackend**: Flask-based REST API (Python)  
   [https://github.com/Mike0Fouad/OwlerBackend](https://github.com/Mike0Fouad/OwlerBackend)
 * **OwlerFrontend**: Android (Java) client using Retrofit/Hilt/Gson to consume the backend  
